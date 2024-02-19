@@ -5,5 +5,5 @@
   },
   "cortex-debug.gdbPath": "/opt/homebrew/bin/arm-none-eabi-gdb",
   "cortex-debug.stutilPath": "/opt/homebrew/bin/st-util",
-  "cortex-debug.variableUseNaturalFormat": false
+  "cortex-debug.variableUseNaturalFormat": true
 }
